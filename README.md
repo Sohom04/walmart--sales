@@ -57,4 +57,4 @@ See `requirements.txt` for detailed setup instructions for macOS and Windows, in
 This project is for educational and demonstration purposes.
 
 ## Author
-shuvam-dinda
+sohom-maity
